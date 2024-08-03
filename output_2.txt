@@ -1,0 +1,50 @@
+NOT SAME
+No Error
+
+
+SI: 3 PI: 0 TI: 0
+PTR: 0 TTC: 12 LLC: 1
+TLL: 1 TTL: 15 JobID: 1
+
+
+Time Limit Exceeded
+
+
+SI: 0 PI: 0 TI: 2
+PTR: 0 TTC: 6 LLC: 0
+TLL: 1 TTL: 5 JobID: 2
+
+
+Line Limit Exceeded
+
+
+SI: 2 PI: 0 TI: 0
+PTR: 3 TTC: 11 LLC: 1
+TLL: 0 TTL: 15 JobID: 3
+
+
+Operation Code Error
+
+
+SI: 0 PI: 1 TI: 0
+PTR: 3 TTC: 2 LLC: 0
+TLL: 1 TTL: 15 JobID: 4
+
+
+
+Invalid Page Fault 
+
+
+SI: 3 PI: 3 TI: 0
+PTR: 3 TTC: 3 LLC: 1
+TLL: 1 TTL: 15 JobID: 5
+
+
+Out of Data
+
+
+SI: 1 PI: 0 TI: 0
+PTR: 3 TTC: 0 LLC: 0
+TLL: 1 TTL: 15 JobID: 6
+
+
